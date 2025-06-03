@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vite-sass-app-template/",
+    "build": "vite build --base=/Cat-CRM-Dashboard/",
     "preview": "vite preview",
     "watch": "npx vite build --watch"
   },
