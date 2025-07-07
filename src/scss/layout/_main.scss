@@ -5,7 +5,7 @@
 
 .main {
   display: grid;
-  gap: 48px;
+  gap: 40px;
   padding: 16px;
   grid-template-areas:
     "welcome"
@@ -17,7 +17,7 @@
     gap: 36px;
     padding: 36px;
 
-    grid-template-columns: repeat(2 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-template-areas:
       "welcome welcome"
       "co-workers co-workers"
